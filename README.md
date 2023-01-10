@@ -6,6 +6,8 @@
  * PostgreSQL (ou usar o sqlite)
  * Criar ``.env`` (se for usar PostgreSQL, exemplo ``.env.exemple``)
 
+
+
 ## Setup
 ### 1 - **Criar ambiente virtual env**
 
@@ -76,3 +78,8 @@ python .\manage.py test
 ```shell
 python3 manage.py test
 ```
+
+## Documentação Basica Swagger
+### ```http://localhost:8000/docs/```
+- ### ou
+###  ```{dominio}/docs/```
